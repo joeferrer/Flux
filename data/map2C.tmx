@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="medyo-di-na-basic" tilewidth="32" tileheight="32">
+  <image source="medyo-di-na-basic.png" width="128" height="96"/>
+  <tile id="4">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="hole" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="19">
+  <data encoding="base64" compression="zlib">
+   eJy9Ve0KAzEI67mh3vu/8G6gLASvHoP2R6Ctmqj90jGGXvDAeQO2db4evIl3IOPkwvEHBDSSU2lu4VPFCmjzHHEGD+btoGNNfsg9q9eI38jW9UAe9JQ5Kw2OTV6LsYEe+z3RMOBMvAIGyDX0kwln1Zsco0YFv4nrNA7SwHqkyH8W/+XX8bs7qFnljOeqsmPeyamb6ti9HzvO1a77Udm6e97x4L6teq+cbCveXQX7qv8jsfIf/AAlKAeS
+  </data>
+ </layer>
+</map>

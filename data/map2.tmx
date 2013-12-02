@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="basic" tilewidth="32" tileheight="32">
+  <image source="basic.png" width="64" height="32"/>
+  <tile id="1">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="3" name="medyo-basic" tilewidth="32" tileheight="32">
+  <image source="../../../Dropbox/Acads/CS 145/CS 145 MP 2/tileset/medyo-basic.png" width="128" height="64"/>
+  <tile id="4">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="19">
+  <data encoding="base64" compression="zlib">
+   eJy9VdsKgCAMFbRw+/8PrmDBYeyikT4c8rJ7O7OXUvoNFpADNpDJdsApeM7rD2Cw2dWeRIZgPQpS+hg3g59Zu5E/tE/qLqsBfiMfVn541wZqYcXTBn2QyGIdDwH2znuGci2w6cVTlQ8L7Oihj6y2mhM69hl9i0tR/BYi3q7OY8f/2N1XET8wZ69XRvkR9bXH88yON6++zERcW/Nw5dzd8X68WPkOXilMCuA=
+  </data>
+ </layer>
+</map>
