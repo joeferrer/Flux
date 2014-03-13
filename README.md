@@ -1,6 +1,6 @@
 #Flux 
 <br/>
-##Introduction 
+##About
 Flux is a game originally created by Joe Ferrer and Erwin Umali for a computer science networking course project. It is a game that was inspired from lessons learned in Physics classes (i.e. Electromagnetism) and other ideas coming from all sorts of other stuff.
 
 ##Development
