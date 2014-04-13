@@ -13,7 +13,7 @@ Note, in connecting, you will be asked your IP first. If you're the host just en
 
 ![](https://raw.githubusercontent.com/joeferrer/Flux/master/screenshots/Screenshot_1.png)
 
-The game is set in dark space, where you, a triangle-shaped flux carrier, color blue or green, must gather and collect 10 charges in your station as soon as possible. Charges appear as small white squares in the game. A player's station appears as a circular spot with the same color as the color of the player (__note:__ _this is also the only other object seen by the player at the start of the game_). To gather charges, you must pass over a charge. To collect a charge, you must pass over your station. The first to collect 10 charges wins the game. Movement in the game follows the controls below:
+The game is set in dark space, where you, a triangular flux carrier, color blue or green, must gather and collect 10 charges in your station as quickly as possible. Charges appear as small white squares in the game. A player's station appears as a circular spot with the same color as the color of the player (__note:__ _this is also the only other object seen by the player at the start of the game_). To gather charges, you must pass over a charge. To collect a charge, you must pass over your station. The first to collect 10 charges wins the game. Movement in the game follows the controls below:
 >
 __Go Up = W__
 > 
